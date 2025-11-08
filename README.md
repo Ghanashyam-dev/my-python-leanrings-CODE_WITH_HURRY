@@ -6,6 +6,8 @@
 🌱excited to learn, build, and share my progress 🚀
 
 
+T⭐his is My First git hub File⭐️
 
-my First python code :-
-print("hello world!")
+
+⭐my First python code :-
+➡️print("hello world!")
